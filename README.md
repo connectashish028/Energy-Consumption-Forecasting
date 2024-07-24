@@ -46,7 +46,7 @@ The developed LSTM model achieved a RMSE of **813.324**, representing approximat
 
 ## Inspiration
 
-This project was inspired by the work of **soumilshah1995** on improving SOC estimation techniques for Lithium Iron Phosphate batteries. Their research highlighted the impact of accurate SOC on battery performance and motivated me to explore this area further.
+This project was inspired by the work of **soumilshah1995** on time series analysis and forecasting using LSTM networks. Their work provided a foundation for understanding how to apply these techniques to predict energy consumption patterns.
 
 Link to his repository for further research: https://github.com/soumilshah1995/Data-Visualization-Analysis-and-RNN-LSTM-model-for-Hourly-Energy-Consumption-
 
